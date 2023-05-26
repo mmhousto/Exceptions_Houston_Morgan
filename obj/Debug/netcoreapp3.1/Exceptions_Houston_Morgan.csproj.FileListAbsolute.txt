@@ -1,0 +1,13 @@
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\bin\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.exe
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\bin\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.deps.json
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\bin\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.runtimeconfig.json
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\bin\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.runtimeconfig.dev.json
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\bin\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.dll
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\bin\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.pdb
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\obj\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.csproj.AssemblyReference.cache
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\obj\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.AssemblyInfoInputs.cache
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\obj\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.AssemblyInfo.cs
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\obj\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.csproj.CoreCompileInputs.cache
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\obj\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.dll
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\obj\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.pdb
+C:\Users\mhouston\source\repos\Exceptions_Houston_Morgan\obj\Debug\netcoreapp3.1\Exceptions_Houston_Morgan.genruntimeconfig.cache
